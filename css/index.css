@@ -1,0 +1,17 @@
+.container{
+    font-family:cursive;
+    color: blueviolet;
+    background: chocolate;
+    font-size: 32px;
+}
+
+h2{
+    color: darkgreen;
+    font-family: unset;
+    background:blue;
+    font-size: 64px;
+}
+
+#texto{
+    background: violet;
+}
